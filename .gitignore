@@ -1,0 +1,8 @@
+# Build artifacts
+*.exe
+
+# Go build output
+bin/
+
+# Temporary files
+*.tmp
